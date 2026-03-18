@@ -9,7 +9,7 @@ printf("%d", me & world);<br>
 #### IDE
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-- 👋 こんにちは、塚花真中です。（まなか げっか）
+- 👋 こんにちは、くじょう しおり。（クジョウ  シオリ）
 - 💞️ 私はシニアスチームプレーヤーです;
 - 🍥 私に友人のアプリケーションID899140041を送信することを歓迎します
 
@@ -20,6 +20,6 @@ printf("%d", me & world);<br>
 
 メールで連絡してくれてもいい
 
-📧manakagekka@qq.com
+📧KujouShiori@qq.com
 
 :-)
